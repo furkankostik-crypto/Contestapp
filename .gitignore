@@ -1,0 +1,29 @@
+# Backup dosyaları
+backup/
+*.bak
+*.tmp
+
+# IDE ve editor dosyaları
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Node modules (eğer sonra eklenirse)
+node_modules/
+npm-debug.log
+package-lock.json
+
+# OS dosyaları
+Thumbs.db
+.DS_Store
+
+# Test dosyaları
+*.test.js
+coverage/
+
+# Environment dosyaları
+.env
+.env.local
