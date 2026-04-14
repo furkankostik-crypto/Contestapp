@@ -20,6 +20,10 @@ Yarışma soruları ve takım puanlarını takip eden, **çevrimdışı çalış
 - ⚡ Hızlı yükleme
 - 🎨 Modern, kullanıcı dostu arayüz
 
+## Sürüm
+
+- v1.4 (2026-04-14): UI iyileştirmeleri, düzenleme modu revizyonu, responsive ve aksesuar optimizasyonları.
+
 ## Kurulum
 
 ### GitHub Pages ile (En Basit)
